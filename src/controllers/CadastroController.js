@@ -1,0 +1,1 @@
+const CadastroService = require('../services/CadastroService');
