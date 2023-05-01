@@ -4,10 +4,16 @@ Repositório destinado a aprendizagem de NodeJS e Vue.
 Como objeto de aprejndizado, vou desenvolver um sistema de escala de funcionarios.
 
 ## Imagens do sistema
-blablabla 
+blablabla Inserir imagens do sistema
 
 ## Como executar o projeto?
-bablalbabla
+Aqui você pode inserir dicas de como executar seu projeto
+
+```bash
+git clone {link do repo}
+npm install 
+npm start
+```
 
 ## Contribuições
 bablalbabla
