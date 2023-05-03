@@ -36,7 +36,6 @@ module.exports = {
     let nome = req.body.nome;
     let email = req.body.email;
     let senha = req.body.senha;
-    console.log(req);
     if (nome && email && senha) {
       let codigo = await CadastroService.inserir(nome, email, senha);
       json.result = {
